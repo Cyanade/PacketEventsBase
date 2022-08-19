@@ -1,1 +1,1 @@
-<<br> This resouce is a Minecraft server plugin with PacketEvents (https://github.com/retrooper/packetevents) pre made into it for easy use. This can be used by many resouces such as AntiCrashers, AntiCheats and even Gamemodes!
+<center> This resouce is a Minecraft server plugin with PacketEvents (https://github.com/retrooper/packetevents) pre made into it for easy use. This can be used by many resouces such as AntiCrashers, AntiCheats and even Gamemodes! </centre>
