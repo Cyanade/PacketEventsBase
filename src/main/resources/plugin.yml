@@ -1,0 +1,4 @@
+name: PacketEventsBase
+version: B1
+main: me.cyanade.base.PacketEventsBase
+author: Cyanade
